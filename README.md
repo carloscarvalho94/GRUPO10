@@ -1,9 +1,10 @@
 # GRUPO10
-AULA TERA SOBRE GIT
+## AULA TERA SOBRE GIT
 
-CARLOSCARVALHO94 - Essa é minha nova versão no ramo principal
+### Contribuições
 
-Euvitech - Essa é minha nova versão no ramo principal
+<p>CARLOSCARVALHO94 - Essa é minha nova versão no ramo principal </p>
+<p>Euvitech - Essa é minha nova versão no ramo principal </p>
 
 ### O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
