@@ -5,7 +5,7 @@ CARLOSCARVALHO94 - Essa é minha nova versão no ramo principal
 
 Euvitech - Essa é minha nova versão no ramo principal
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+### O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Crie um novo repositório.
 - [x] Adicionando colaboradores.
