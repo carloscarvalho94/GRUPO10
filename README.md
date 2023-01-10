@@ -1,11 +1,11 @@
 # GRUPO10 - AULA TERA SOBRE GIT
 
-### Contribuições
+### 🤝 Contribuições
 
 <p><strong>CARLOSCARVALHO94</strong> - Essa é minha nova versão no ramo principal </p>
 <p><strong>Euvitech</strong> - Essa é minha nova versão no ramo principal </p>
 
-### O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+### ☕ O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Crie um novo repositório.
 - [x] Adicionando colaboradores.
@@ -16,7 +16,7 @@
 - [x] Publique sua nova versão.
 - [x] Obtendo as versões geradas.
 
-### Para contribuir com GRUPO10, siga estas etapas:
+### 📫 Para contribuir com GRUPO10, siga estas etapas:
 
 1. git pull sempre.
 2. Crie um branch: `git checkout -b <nome_branch>`.
